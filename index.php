@@ -27,7 +27,6 @@
 			<hr>
 			<p><a href="./cke_syntaxhighlighter_example.zip">Download complete source code as *.zip from here</a></p>
 			<p>Please visit us at <a href="http://ckeditor.com/addon/syntaxhighlight" target="_blank">ckeditor.com</a> or <a href="https://github.com/dbrain/ckeditor-syntaxhighlight" target="_blank">github</a></p>
-			<p>CKEditor and Alex Gorbatchev's syntaxhighlighter have been downloaded on 2014-01-09</p>
 		</div>
 	</body>
 </html>

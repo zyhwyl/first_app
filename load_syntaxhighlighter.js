@@ -28,7 +28,6 @@ SyntaxHighlighter.autoloader(
 	'vb vbnet ./SyntaxHighlighter/scripts/shBrushVb.js',
 	'xml xhtml xslt html ./SyntaxHighlighter/scripts/shBrushXml.js'
 );
-SyntaxHighlighter.config.strings.expandSource = 'Quelltext anzeigen';
 SyntaxHighlighter.config.strings.noBrush = 'Kann keine Zielsprache finden für: ';
 SyntaxHighlighter.config.strings.brushNotHtmlScript = 'Zielsprache wurde nicht für html-script Option konfiguriert: ';
 SyntaxHighlighter.all();
